@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"L1",1," Lâmpada"
+"FUNC3",1,"60 Hz, 10 V, 2.5 V, Seno Gerador de função"
+"K1",1," Relé SPDT"
+"R1",1,"1 kΩ Resistor"
+"D1",1," Diodo"
+"T1",1," Transistor NPN (BJT)"
+"P1",1,"5 , 39.8  Fonte de energia"
